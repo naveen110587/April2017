@@ -27,5 +27,7 @@ public class HelloWorld {
 		System.out.println(a);
 		
 		System.out.println("Branching one");
+		System.out.println("Branching two");
+
 	}
 }
